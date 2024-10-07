@@ -9,7 +9,7 @@ description: I, Me & Myself. A Prelude in Self Love.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -59,7 +59,7 @@ authors:
     name: Pratyush Sharma
     bio: Full Stack Engineer YOE6 DTU'20 IIITB'24
     external-image: false
-    picture: assets/images/profile.png
+    picture: assets/images/profile.jpeg
     twitter: prxtyushsharma
     facebook: prxtyushsharma
     linkedin: pratyuxhsharma
