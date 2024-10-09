@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-Pratyush is a CFA L1, Full Stack Engineer, Data Science Enthusiast who loves to code on Python, Javascript, Springboot. He is a DTU'20 undergrad and have completed an Advance Certificate Programme in Data Science from IIIT Bangalore. He loves to create web apps and mobile apps and is open to get projects on freelance.
+Pratyush is a CFA L1, Full Stack Engineer, Data Science Enthusiast who loves to code on Python, Javascript, Springboot. He is a DTU'20 Electrical Engineer and have completed an Advance Certificate Programme in Data Science from IIIT Bangalore. He loves to create web apps and mobile apps and is open to get projects on freelance.
 </p>
 
 <p>
