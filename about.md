@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-Pratyush is a Full Stack Engineer, Data Science & Fintech Enthusiast who loves to code on Python, Javascript. He is an Electrical Engineering Graduate from Delhi College of Engineering and have completed an Advanced Certificate Programme in Data Science from IIIT Bangalore. 
+Pratyush is a Full Stack Engineer, Data Science & Fintech Enthusiast who loves to code on Python, Javascript. He is an Electrical Engineering Graduate from Delhi College of Engineering 2020 and have completed an Advanced Certificate Programme in Data Science from IIIT Bangalore 2024. 
 </p>
 
 <p>
