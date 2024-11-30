@@ -15,7 +15,7 @@ picture: assets/images/profile.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1biRhPUPrzToo3aLNxbVUHzUsSCTLqUyN/view?usp=sharing
+resume-url: https://drive.google.com/file/d/13U_kqPCFKD6RXM-OpOqc4I-cL0IGFkye/view?usp=sharing
 
 url: https://pratyuxh.github.io
 
@@ -56,7 +56,7 @@ authors:
     twitter: jamesfoster
   pratyush_sharma:
     name: Pratyush Sharma
-    bio: Full Stack Engineer DTU'20 IIITB'24
+    bio: Full Stack Engineer DTU'20 
     external-image: false
     picture: assets/images/profile.jpeg
     twitter: prxtyushsharma
